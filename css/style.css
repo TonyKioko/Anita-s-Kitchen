@@ -136,4 +136,11 @@ background-image: url(../assets/foodtop/lunch.jpg)
   background-size: cover;
   text-align:center;
   margin-top:30px;
+  padding-top:6px;
+}
+.food-list {
+  background-color: grey;
+  height:100px;
+  padding-bottom:20px;
+  line-height: 100px;
 }
