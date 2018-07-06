@@ -144,9 +144,13 @@
   </div>
   <section id="subscription">
       <p>Get our daily food items delivered to your email</p>
-      <div id="email">
-        <input type="text" readonly class="form-control-plaintext" id="staticEmail2" value="email@example.com">
-      </div>
+      <form class="form-inline">
+        <div class="form-group email-input">
+          <input type="text" name="" class="form-control email-capture" placeholder="Your Email">
+          <button class="btn px-20" id="submit-button">subscribe</button>
+          <P id="subscribe"></P>
+        </div>
+      </form>
 
   </section>
 </body>
