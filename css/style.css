@@ -5,10 +5,14 @@
 }
 body {
   width:100%;
+  text-align: center;
 }
-
+h3 {
+  line-height: 180px;
+}
 /*  --------------- */
 /* --HEADER SECTION --*/
+/*  --------------- */
 #header-section{
   width:100%;
   height:550px;
@@ -23,4 +27,34 @@ body {
 }
 .mission-statement h1 {
   color:white;
+}
+
+/*  --------------- */
+/* --MEALS SECTION --*/
+/*  --------------- */
+#meals-section {
+  width:100%;
+
+  margin:0;
+  background-color: green;
+}
+.happy-hour {
+  height:50%;
+  background-color: #9a9292 ;
+  padding: 20px;
+  margin:0;
+}
+.party-time {
+  height:50%;
+  background-color:#F15A29 ;
+  padding: 20px;
+}
+#breakfast{
+  background-image: url(../assets/foodtop/breakfast.jpg)
+}
+#lunch {
+
+}
+#dinner {
+
 }
