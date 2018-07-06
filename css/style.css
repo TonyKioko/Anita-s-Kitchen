@@ -192,8 +192,12 @@ background-image: url(../assets/foodtop/lunch.jpg)
 #footer-section {
   background-color: #F15A29;
   height:200px;
-  padding-top:0px;
+  padding-top:20px;
 }
-.logo-white img {
+.logo-white {
+  margin:0;
   display:inline;
+}
+#footer-section h2 {
+  color:#fff;
 }
