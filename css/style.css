@@ -187,5 +187,9 @@ background-image: url(../assets/foodtop/lunch.jpg)
 }
 
 /*  --------------- */
-/* --EMAIL-SUBS SECTION --*/
+/* --FOOTER SECTION --*/
 /*  --------------- */
+#footer-section {
+  background-color: #F15A29;
+  height:200px;
+}
