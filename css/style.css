@@ -147,6 +147,19 @@ background-image: url(../assets/foodtop/lunch.jpg)
 /*  --------------- */
 /* --CUSTOMER SECTION --*/
 /*  --------------- */
+#customers {
+  margin-top:30px;
+}
 #customers h2 {
   color:#F15A29;
+}
+.happy-customers{
+  border-rght:5px solid grey;
+}
+.angle-arrows {
+  color:#F15A29;
+  font-size:25px;
+}
+.customer-images {
+  border-right: 6px solid grey;
 }
