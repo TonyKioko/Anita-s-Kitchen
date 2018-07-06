@@ -9,6 +9,7 @@ body {
 }
 h3 {
   line-height: 180px;
+  color:white;
 }
 /*  --------------- */
 /* --HEADER SECTION --*/
@@ -36,25 +37,29 @@ h3 {
   width:100%;
 
   margin:0;
-  background-color: green;
+  /*background-color: green; */
 }
 .happy-hour {
   height:50%;
+  width:105%;
   background-color: #9a9292 ;
-  padding: 20px;
-  margin:0;
+  padding: 30px 100px 20px 100px;;
+
 }
 .party-time {
   height:50%;
+  width:105%;
   background-color:#F15A29 ;
-  padding: 20px;
+  padding: 20px 1px;
 }
 #breakfast{
-  background-image: url(../assets/foodtop/breakfast.jpg)
+  background-image: url(../assets/foodtop/breakfast.jpg);
+  /*padding-left:300px;*/
+  width:100%;
 }
 #lunch {
-
+background-image: url(../assets/foodtop/lunch.jpg)
 }
 #dinner {
-
+  background-image: url(../assets/foodtop/dinner.jpg)
 }
