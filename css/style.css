@@ -163,3 +163,14 @@ background-image: url(../assets/foodtop/lunch.jpg)
 .customer-images {
   border-right: 6px solid grey;
 }
+
+/*  --------------- */
+/* --EMAIL-SUBSCRIPTION SECTION --*/
+/*  --------------- */
+#subscription {
+  margin-top: 60px;
+  background-image: url(../assets/backgrounds/subscribe.jpg);
+  height:300px;
+  color:white;
+  line-height: 300px;
+}
