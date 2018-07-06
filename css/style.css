@@ -87,7 +87,8 @@ background-image: url(../assets/foodtop/lunch.jpg)
 .gallery p {
   text-align:left;
 }
-#food button {
+#food button,
+#drinks button {
   border:1px solid #F15A29;
   background-color: #fff;
   color:#F15A29;
@@ -100,4 +101,12 @@ background-image: url(../assets/foodtop/lunch.jpg)
 .arrow {
   padding-left:8px;
   margin-top:8px;
+}
+
+/*  --------------- */
+/* --DRINKS SECTION --*/
+/*  --------------- */
+#drinks img {
+  display:inline;
+  margin:-3px;
 }
