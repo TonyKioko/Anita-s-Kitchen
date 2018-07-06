@@ -110,3 +110,17 @@ background-image: url(../assets/foodtop/lunch.jpg)
   display:inline;
   margin:-3px;
 }
+.delicous-drinks h2,
+.delicous-drinks p {
+  text-align:right;
+}
+#drinks button {
+  border:1px solid #F15A29;
+  background-color: #fff;
+  color:#F15A29;
+  float:right;
+}
+#drinks button:hover {
+  background-color:#F15A29;
+  color:#fff;
+}
