@@ -143,3 +143,10 @@ background-image: url(../assets/foodtop/lunch.jpg)
   height:100px;
   line-height: 100px;
 }
+
+/*  --------------- */
+/* --CUSTOMER SECTION --*/
+/*  --------------- */
+#customers h2 {
+  color:#F15A29;
+}
