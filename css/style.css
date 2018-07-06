@@ -70,6 +70,7 @@ background-image: url(../assets/foodtop/lunch.jpg)
 
 #food {
   margin-top: 70px;
+  margin-bottom:60px;
 }
 .fast-food {
   border: 15px solid transparent;
@@ -92,7 +93,11 @@ background-image: url(../assets/foodtop/lunch.jpg)
   color:#F15A29;
   float:left;
 }
+#food button:hover {
+  background-color:#F15A29;
+  color:#fff;
+}
 .arrow {
   padding-left:8px;
-  padding-top:8px;
+  margin-top:8px;
 }
