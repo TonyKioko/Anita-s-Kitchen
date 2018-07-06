@@ -35,7 +35,7 @@ h3 {
 /*  --------------- */
 #meals-section {
   width:100%;
-
+  margin-bottom: 30px;
   margin:0;
   /*background-color: green; */
 }
@@ -62,4 +62,19 @@ background-image: url(../assets/foodtop/lunch.jpg)
 }
 #dinner {
   background-image: url(../assets/foodtop/dinner.jpg)
+}
+
+/*  --------------- */
+/* --FOOD SECTION --*/
+/*  --------------- */
+
+#food {
+  margin-top: 70px;
+}
+.fast-food {
+  border: 15px solid transparent;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.fast-food img {
+  display:inline;
 }
