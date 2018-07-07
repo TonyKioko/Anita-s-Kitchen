@@ -157,17 +157,26 @@ background-image: url(../assets/foodtop/lunch.jpg)
 #food-carousel {
   background-image: url(../assets/backgrounds/foodsBg.jpg);
   width:100%;
-  height:500px;
+  height:400px;
   background-repeat: no-repeat;
   background-size: cover;
   text-align:center;
   margin-top:30px;
-  padding-top:6px;
+
 }
 .food-list {
   background-color: grey;
   height:100px;
   line-height: 100px;
+}
+#food-pics img {
+  margin:1%;
+}
+.food-pics {
+  background-color: #FFFFFF;
+  width:80%;
+  margin:20px auto;
+  padding:20px 50px;
 }
 
 /*  --------------- */
