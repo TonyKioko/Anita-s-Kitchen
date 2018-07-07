@@ -46,8 +46,13 @@ h3 {
   /*background-color: green; */
 }
 #meals-section h2 {
-  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'Poiret One', cursive;
   color:white;
+}
+#meals-section h3 {
+  font-family: 'Tangerine', cursive;
+  color:white;
+  font-size:50px;
 }
 .happy-hour {
   height:50%;
