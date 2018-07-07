@@ -91,6 +91,16 @@ background-image: url(../assets/foodtop/lunch.jpg)
   border: 15px solid transparent;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
+#food h2,
+#drinks h2 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+}
+#food p,
+#drinks p {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300;
+}
 .fast-food img {
   display:inline;
 }
@@ -164,21 +174,19 @@ background-image: url(../assets/foodtop/lunch.jpg)
 /* --CUSTOMER SECTION --*/
 /*  --------------- */
 #customers {
-  margin-top:30px;
+  margin-top:40px;
 }
 #customers h2 {
   color:#F15A29;
 }
-.happy-customers{
-  border-rght:5px solid grey;
+.happy-customer-profile{
+  padding:20px;
 }
 .angle-arrows {
   color:#F15A29;
   font-size:25px;
 }
-.customer-images {
-  border-right: 6px solid grey;
-}
+
 
 /*  --------------- */
 /* --EMAIL-SUBSCRIPTION SECTION --*/
