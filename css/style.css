@@ -240,6 +240,13 @@ background-image: url(../assets/foodtop/lunch.jpg)
 .email-capture {
   width:850px;
 }
+#subscription input {
+  font-family: 'Raleway', sans-serif;
+  width:230px;
+  background-color: transparent;
+  color:#FFFFFF;
+  font-weight: bold;
+}
 #subscription p{
   font-family: 'Old Standard TT', serif;
   font-size:16px;
