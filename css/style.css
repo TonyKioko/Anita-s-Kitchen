@@ -178,6 +178,11 @@ background-image: url(../assets/foodtop/lunch.jpg)
   margin:20px auto;
   padding:20px 50px;
 }
+.food-arrows {
+  margin-top: 100px;
+  color:#F15A29;
+  font-size: 30px;
+}
 
 /*  --------------- */
 /* --CUSTOMER SECTION --*/
