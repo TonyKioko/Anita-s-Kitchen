@@ -178,7 +178,14 @@ background-image: url(../assets/foodtop/lunch.jpg)
 }
 #customers h2 {
   color:#F15A29;
+  font-family: 'Raleway', sans-serif;
+  font-size: 25px;
+  font-weight: 600;
 }
+#customers p{
+  font-family: 'Raleway', sans-serif;
+}
+
 .happy-customer-profile{
   padding:20px;
 }
